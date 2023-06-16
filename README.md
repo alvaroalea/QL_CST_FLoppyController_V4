@@ -4,7 +4,9 @@ A clone of the CST's Floppy Disk Interface for Sinclair QL
 (PCB version 4, ROM version 1.18)
 
 ## WARNING: THIS IS WORK IN PROGRESS
-This board is not tested and probably do not work, use at your own risk.
+
+The board has been tested and seen to work correctly, but used it with by RAM expansion board kill
+the GAL chip of the RAM expansion, I'm still checking what happend, so use at your own risk.
 
 This board is an advanced version of teh CST Floppy Disk Interface, there are two main diferences with version 3
 * The ROM is scrambled, so read directly from the chip do not provide usefull information.
@@ -16,6 +18,10 @@ It use the standar stugart conector, so a plain cable can have up to 2 disk driv
 It use a WD1770 disc controller, and is expected that will be compatible with WD1772, WD1773 need to be checked.
 
 Thanks to Derek_Stewart and techy of qlforum.co.uk for providing the pictures that allow me to capture the schema.
+
+A interactive bill of materials is available here:
+
+https://alvaroalea.github.io/QL_CST_FLoppyController_V4/ibom.html
 
 ![My image](qdisk_v4F.png) 
 
