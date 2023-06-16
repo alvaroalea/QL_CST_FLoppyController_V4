@@ -471,7 +471,7 @@
       "netlist": "",
       "specctra_dsn": "ql qdisk mark1 8.dsn",
       "step": "qdisk_v4.step",
-      "vrml": ""
+      "vrml": "qdisk_v4.wrl"
     },
     "page_layout_descr_file": ""
   },

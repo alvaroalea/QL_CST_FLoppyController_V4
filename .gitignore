@@ -13,7 +13,7 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
-*-backup/*
+qdisk_v4-backups/*.zip
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -25,3 +25,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# 3d backups
+*.FCStd1

@@ -1,13 +1,13 @@
-MENSAJES
-==========
+MENSAJES / MESSAGES
+===================
 CST QDisc  Controller V 1.18  1986
 files still open
 read/write failed
 rom checksum failure
 
 
-COMANDOS
-========
+COMANDOS / COMMANDS
+===================
 * EW
 * EX
 * EXEC_W
