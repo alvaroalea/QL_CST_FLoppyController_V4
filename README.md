@@ -26,9 +26,10 @@ It use a WD1770 disc controller, and is expected that will be compatible with WD
 
 Thanks to Derek_Stewart and techy of qlforum.co.uk for providing the pictures that allow me to capture the schema.
 
-A interactive bill of materials is available here:
+A interactive bill of materials for each board is available here:
 
-https://alvaroalea.github.io/QL_CST_FLoppyController/ibom.html
+* https://alvaroalea.github.io/QL_CST_FLoppyController/ibom_3.html
+* https://alvaroalea.github.io/QL_CST_FLoppyController/ibom_4.html
 
 ### WARNING: Use good components!
 
