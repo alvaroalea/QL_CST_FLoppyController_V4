@@ -1,0 +1,69 @@
+MENSAJES / MESSAGES
+===================
+CST QDisc  Controller V 1.18  1986
+files still open
+read/write failed
+rom checksum failure
+
+
+COMANDOS / COMMANDS
+===================
+* EW
+* EX
+* EXEC_W
+* EXEC
+* SPL
+* JOBS
+* RJOB
+* SPJOB
+* GET
+* BGET
+* PUT
+* BPUT
+* RENAME
+* TRUNCATE
+* VIEW
+* WCOPY
+* STAT
+* WSTAT
+* WDIR
+* WDEL
+* WDEL_F
+* PROG_USE
+* DATA_USE
+* SPL_USE
+* RAM_USE
+* FLP_USE
+* FLP_SEC
+* FLP_START
+* FLP_TRACK
+* CURSEN
+* CURDIS
+* RECHP
+* CLCHP
+* EXTRAS
+* CHAR_USE
+* CHAR_INC
+* WMON
+* WTV
+* CLOCK
+* FPOS
+* FLEN
+* FTYP
+* FDAT
+* FOPEN
+* FOP_IN
+* FOP_NEW
+* FOP_OVER
+* FOP_DIR
+* HEX$
+* BIN$
+* FDEC$
+* IDEC$
+* CDEC$
+* HEX
+* BIN
+* FREE_MEM
+* ALCHP
+* PARTYP
+* PARUSE
