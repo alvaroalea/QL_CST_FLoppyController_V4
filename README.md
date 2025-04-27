@@ -41,13 +41,13 @@ Using a wellknow source transistor eliminate the incompatibility and work correc
 
 ## Recreated Boards
 
-### Qdisk Issue 4
+### Issue 4
 
 ![My image](Issue_4/qdisk_v4F.png)
 
 ![My image](Issue_4/qdisk_v4B.png)
 
-### Qdisk Issue 3
+### Issue 3
 
 ![My image](Issue_3/QL_CST_FLoppyController_V3_C.png)
 
@@ -67,7 +67,7 @@ One of the few images available on internet, noted the transistor near the edge 
 
 The transistor has been moved, the 3 resistor has been replaces by array R1, and the resistor array near WD1770 is called R2 (SIL)
 
-### Issue 3
+### Issue 4
 
 ![My image](docs/Issue_4.jpg)
 
